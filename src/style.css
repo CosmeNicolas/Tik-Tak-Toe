@@ -1,0 +1,56 @@
+html{
+    background-color: #020609;
+}
+.square{
+    border-radius: 5px;
+    width: 20vw;
+    height: 20vh;
+    background-color: #780869;
+    color: aliceblue;
+    
+}
+
+.square:hover{
+    background-color: #EA047E;
+}
+
+.board-row{
+    display: flex;
+    justify-content: center;
+}
+
+.game-info{
+    color: #ff2197;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+}
+
+
+.next{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.list{
+    color: #FF4C29;
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+   
+    display: flex;
+    justify-content: center;
+}
+
+.Tik{
+    color:#FF1E1E
+}
+.Tak{
+    color:#FFFF00
+}
+.Toe{
+    color:#31C6D4
+}
